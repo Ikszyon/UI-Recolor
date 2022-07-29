@@ -1,6 +1,3 @@
-[submodule "libraries/Mega-Hack-Extensions"]
-	path = libraries/Mega-Hack-Extensions
-	url = https://github.com/absoIute/Mega-Hack-Extensions
 [submodule "libraries/cocos-headers"]
 	path = libraries/cocos-headers
 	url = https://github.com/HJfod/cocos-headers
